@@ -1,8 +1,6 @@
+![Profile_Banner_with_text](https://user-images.githubusercontent.com/57369924/132961635-7dd4bf92-9093-4ead-b7f0-a3e048812bc8.jpg)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=daenges&label=Visits&color=DD6387&style=flat" alt="daenges" /> </p>
-<h1 align="center">Hello there, I am <span style="color:#DD6387"><b>Daenges</b></span>!</h1>
-<h3 align="center"><span style="color:#DD6387"><b>Student</b></span> and freetime <span style="color:#DD6387"><b>developer</b></span>.</h3>
 
-<br />
 <br />
 
 ---
