@@ -1,4 +1,6 @@
-![Profile_Banner_with_text](https://user-images.githubusercontent.com/57369924/132961635-7dd4bf92-9093-4ead-b7f0-a3e048812bc8.jpg)
+![Profile_Banner_with_text_cutted_top](https://user-images.githubusercontent.com/57369924/132963641-5dc32b54-844c-4409-9eec-8f69ec03ba2c.png)
+
+
 
 
 <br />
@@ -40,3 +42,6 @@
 <h3 align="center"><b>You scrolled very far. Here's a joke as a reward:</b></h3>
 <br />
 <p align="center">  <img src="https://readme-jokes.vercel.app/api?theme=dracula&borderColor=white" alt="README Jokes"></a>
+
+
+![Profile_Banner_with_text_cutted_bottom](https://user-images.githubusercontent.com/57369924/132963646-67d4a093-5629-43d7-ae03-76bc48dbd063.png)
