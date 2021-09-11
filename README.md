@@ -1,8 +1,9 @@
 ![Profile_Banner_with_text](https://user-images.githubusercontent.com/57369924/132961635-7dd4bf92-9093-4ead-b7f0-a3e048812bc8.jpg)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=daenges&label=Visits&color=DD6387&style=flat" alt="daenges" /> </p>
 
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br />
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=daenges&label=Visits&color=DD6387&style=flat" alt="daenges" /> </p>
+<br /><br /><br /><br />
 
 ---
 <br />
