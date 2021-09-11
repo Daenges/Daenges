@@ -38,4 +38,4 @@
 
 <h3 align="center"><b>You scrolled very far. Here's a joke as a reward:</b></h3>
 <br />
-<p align="center">  <a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<p align="center">  <a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api?theme=dracula&borderColor=white" alt="README Jokes"></a>
